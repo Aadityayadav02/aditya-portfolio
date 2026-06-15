@@ -2,12 +2,12 @@
 
 Personal portfolio website built with HTML, CSS and vanilla JavaScript.
 
-🌐 **Live site:** [)
+🌐 **Live site:** [https://Aadityayadav02.github.io/aditya-portfolio)
 
 ---
 
 ## Tech Used
-- HTML5, CSS3, Vanilla JS
+- HTML5, CSS3
 - Google Fonts (Space Grotesk, IBM Plex)
 
 ## Run Locally
